@@ -29,6 +29,9 @@ importers:
       react-router-dom:
         specifier: ^6.0.0
         version: 6.30.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      strapi-upload-provider-supabase:
+        specifier: link:..\strapi-upload-provider-supabase
+        version: link:../strapi-upload-provider-supabase
       strapi-upload-supabase-provider:
         specifier: ^1.0.8
         version: 1.0.8
